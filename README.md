@@ -1,5 +1,6 @@
 # AlphaMind Pro: Agentic RAG with MCP & Ollama
 
+---
 This is a Financial Analysis system using:
 - **CrewAI** for Multi-Agent orchestration.
 - **Ollama (Llama 3)** for local LLM processing.
