@@ -10,4 +10,4 @@ This is a Financial Analysis system using:
 ## Setup
 1. Clone the repo.
 2. Install dependencies: `pip install -r requirements.txt`
-3. Run Streamlit: `streamlit run app.py`.
+3. Run Streamlit: `streamlit run app.py`..
