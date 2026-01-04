@@ -1,4 +1,4 @@
-import os
+import os 
 import yfinance as yf
 import chromadb
 from datetime import datetime
